@@ -1,0 +1,29 @@
+% `git` and GitHub for collaborative authoring
+% John D. Martin III
+% 15 May 2014
+% This document can be compiled in LaTeX using beamer or rendered as
+% html slides. 
+% For latex, do:
+% pandoc git-tutorial.md --slide-level 2 -t beamer -o git-tutorial.tex
+% pdflatex pmgit.tex
+% pdflatex pmgit.tex
+% For html, do:
+% pandoc -t dzslides -s git-tutorial.md -o git-tutorial.html
+# `git` and GitHub for collaborative authoring
+
+## 
+
+- Turn off alarm
+- Get out of bed
+
+## Breakfast
+
+- Eat eggs
+- Drink coffee
+
+# In the evening
+
+## Dinner
+
+- Eat spaghetti
+- Drink wine
