@@ -29,9 +29,8 @@ For html, do:
 
 # How?
 
-## How?
+## How? Plaintext.
 
-Plaintext:
 - LaTeX
 - Markdown
 - BibTeX

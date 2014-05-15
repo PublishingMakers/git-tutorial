@@ -1,11 +1,11 @@
 \documentclass[t]{beamer}  
 \usetheme{Berkeley}                 
 \setbeamertemplate{navigation symbols}{}
-\title{\verb|git| and GitHub for Collaborative Authoring}
+\title{git and GitHub for Collaborative Authoring}
 \subtitle{or: How I Learned to Stop Worrying and Write in Plaintext}
 \author{John D. Martin III}
 \institute{University of North Carolina at Chapel Hill}
-\date{\today}
+\date{15 May 2014}
 
 % more preamble...
 
@@ -19,6 +19,6 @@
 \tableofcontents
 \end{frame}
 
-\input{"talk.tex"}
+\input{"git-tutorial.tex"}
 
 \end{document}
